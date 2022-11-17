@@ -1,9 +1,9 @@
 ---
-title: "Our Agents"
 template: "page"
 socialImage: "./notebook.jpg"
 ---
 
+<p className="text-center"><h2>Our Agents</h2></p>
 <div style="background: ghostwhite; 
 	    font-size: 20px;
             padding: 10px; 
@@ -123,37 +123,12 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="chuckwilliams.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Chuck&nbsp;Williams</strong></span>
-	<span style="display: block;"><a href="mailto:Williams.chuck96@yahoo.com">Williams.chuck96@yahoo.com</a></span>
-	<span style="display: block;"><a href="tel:423-883-4803">423-883-4803</a></span>
-	<p>Chuck is lifelong resident of North Georgia. He comes to Elite Realtors with years of experience serving the community. He has over 20 years in the educational system. He is a husband and father of 3. He has a passion for serving. He is a Christian, loves to play golf, hunt and train Labrador’s retrievers in his spare time. He has a Business Degree and Master Degree in Agriculture Education.
-He is excited to serve the greater Chattanooga and North Georgia area.
-	</p>
-</div>
-<div style="background: ghostwhite; 
-	    font-size: 20px;
-            padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
 	<img src="tylerpayne.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Tyler&nbsp;Payne</strong></span>
 	<span style="display: block;"><a href="mailto:Paynetyler111@gmail.com">Paynetyler111@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:423-508-4136">423-508-4136</a></span>
 	<p>At the end of 2020, Tyler initially began investing in real estate before ultimately deciding to pursue real estate as his full time career. Over the past year, he has developed relationships that have thrust him even deeper into discovering his passion for real estate. He received his license in March of 2021. Tyler graduated from The McCallie School in 2015, and then attended Lee University where he played baseball for four years and graduated with a degree in Business Finance.</p>
 		<p>As a lifelong resident of the North Georgia and Greater Chattanooga areas, Tyler brings a deep understanding of the community that surrounds it.
-	</p>
-</div>
-<div style="background: ghostwhite; 
-	    font-size: 20px;
-            padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
-	<img src="deanbotting.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Dean&nbsp;Botting</strong></span>
-	<span style="display: block;"><a href="mailto:Deanb.elite@gmail.com">Deanb.elite@gmail.com</a></span>
-	<span style="display: block;"><a href="tel:515-468-5737">515-468-5737</a></span>
-	<p>Dean Botting endeavors to find your perfect place to call home and with his 20 years of experience in the Greater Chattanooga Area he knows where to find it.  He believes that creating a great relationship tied with exceptional customer service with his clients is the key to the success of finding your perfect living place. Dean is an active member in the community and volunteers with such groups as the Boy Scouts of America, National Eagle Scout Association, the Kidney Foundation of the Greater Chattanooga Area, North Georgia’s Primary Health Care and Chattanooga’s 9/11 Memorial Stair Climb.  He believes that giving back to his community through volunteerism is a pinnacle in life. Dean enjoys a magnitude of different activities, including being a professional Ballroom and Latin Dance Instructor where he has been ranked 5th in the world for Latin and 5th nationally in Ballroom Dancing.  As well, he is a huge outdoor enthusiast believing that the Chattanooga area is a hidden mecca for anything possible in outdoor adventures. Dean believes that family and friends are the core to a healthy and fulfilled life.  He carries that belief in everything he does, knowing that creating positive and meaningful relationships is the cornerstone.
 	</p>
 </div>
 <div style="background: ghostwhite; 
