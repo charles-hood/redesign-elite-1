@@ -1,6 +1,6 @@
 ---
 template: "page"
-socialImage: "./notebook.jpg"
+socialImage: "./bonniehood.jpg"
 ---
 
 <p className="text-center"><h2>Our Agents</h2></p>
