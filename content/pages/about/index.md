@@ -9,7 +9,6 @@ socialImage: "./bonniehood.jpg"
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-  ![](/tracylee.jpg)
 	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tracylee.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Tracy&nbsp;Lee</strong></span>
 	<span style="display: block;"><a href="mailto:tracylee.elite@gmail.com">tracylee.elite@gmail.com</a></span>
