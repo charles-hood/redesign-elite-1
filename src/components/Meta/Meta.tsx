@@ -9,6 +9,7 @@ interface Props {
 const Meta: React.FC<Props> = ({ description, title, image }: Props) => (
   <>
     <title>{title}</title>
+    <meta name="theme-color" content="#1a5d8d">
     <meta name="description" content={description} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
