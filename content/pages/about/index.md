@@ -25,7 +25,7 @@ Her accomplishments range from Masters Club to Regional multi-million dollar pro
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="[bonniehood.jpg](https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/bonniehood.jpg)" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/bonniehood.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Bonnie&nbsp;Hood</strong></span>
 	<span style="display: block;"><a href="mailto:bonniehood.elite@gmail.com">bonniehood.elite@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:4234213946">(423) 421-3946</a></span>
