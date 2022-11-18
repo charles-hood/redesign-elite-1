@@ -1,9 +1,9 @@
 ---
+title: Contact Us
 template: "page"
 socialImage: "./book.jpg"
 ---
 <div style="text-align:center">
-<h2>Contact Us</h2>
 <table style="margin-left:auto;margin-right:auto;">
   <tr>
     <td><img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/png-icon.png" width="64" height="64" /></td>
