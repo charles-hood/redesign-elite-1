@@ -1,7 +1,7 @@
 ---
 title: Our Agents
 template: "page"
-socialImage: "./bonniehood.jpg"
+socialImage: "./elite-gold-black.jpg"
 ---
 <div style="padding: 10px; 
             border: 1px solid lightgray; 
