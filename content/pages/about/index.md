@@ -10,7 +10,7 @@ socialImage: "./bonniehood.jpg"
             border: 1px solid lightgray; 
             margin: 10px;">
   ![](/tracylee.jpg)
-	<img src="tracylee.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tracylee.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Tracy&nbsp;Lee</strong></span>
 	<span style="display: block;"><a href="mailto:tracylee.elite@gmail.com">tracylee.elite@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:4236532960">(423)653-2960</a></span>
@@ -25,7 +25,7 @@ Her accomplishments range from Masters Club to Regional multi-million dollar pro
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="bonniehood.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="[bonniehood.jpg](https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/bonniehood.jpg)" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Bonnie&nbsp;Hood</strong></span>
 	<span style="display: block;"><a href="mailto:bonniehood.elite@gmail.com">bonniehood.elite@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:4234213946">(423) 421-3946</a></span>
@@ -38,7 +38,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="stanhood.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/stanhood.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Stan&nbsp;Hood</strong></span>
 	<span style="display: block;"><a href="mailto:stanhood.elite@gmail.com">stanhood.elite@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:4234439278">(423) 443-9278</a></span>
@@ -50,7 +50,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="marthaalexander.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/marthaalexander.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Martha&nbsp;Alexander</strong></span>
 	<span style="display: block;"><a href="mailto:yourrealtormartha@gmail.com">yourrealtormartha@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:4235932500">(423) 593-2500</a></span>
@@ -62,7 +62,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="nathanphillips.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/nathanphillips.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Nathan&nbsp;Phillips</strong></span>
 	<span style="display: block;"><a href="mailto:nphillipsrealtor@gmail.com">nphillipsrealtor@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:4232270005">(423) 227-0005</a></span>
@@ -74,7 +74,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="lisaheadrick.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/lisaheadrick.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Lisa&nbsp;Headrick</strong></span>
 	<span style="display: block;"><a href="mailto:lheadrick24@aol.com">lheadrick24@aol.com</a></span>
 	<span style="display: block;"><a href="tel:4235938052">(423) 593-8052</a></span>
@@ -86,7 +86,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="deeannsturdivant.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/deeannsturdivant.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>DeeAnn&nbsp;Sturdivant</strong></span>
 	<span style="display: block;"><a href="mailto:Nextsteprealtyga@gmail.com">Nextsteprealtyga@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:4043682359">(404) 368-2359</a></span>
@@ -98,7 +98,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="havencox.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/havencox.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Haven&nbsp;Cox</strong></span>
 	<span style="display: block;"><a href="mailto:havensellshomes@gmail.com">havensellshomes@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:4238273666">(423) 827-3666</a></span>
@@ -110,7 +110,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="shellietyrrell.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/shellietyrrell.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Shellie&nbsp;Tyrrell</strong></span>
 	<span style="display: block;"><a href="mailto:shellie.elite@gmail.com">shellie.elite@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:7043904882">(704) 390-4882</a></span>
@@ -124,7 +124,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="tylerpayne.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tylerpayne.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Tyler&nbsp;Payne</strong></span>
 	<span style="display: block;"><a href="mailto:Paynetyler111@gmail.com">Paynetyler111@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:423-508-4136">423-508-4136</a></span>
@@ -137,7 +137,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="amberstepanek.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/amberstepanek.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Amber&nbsp;Stepanek</strong></span>
 	<span style="display: block;"><a href="mailto:astepanekhomes@gmail.com">astepanekhomes@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:423-290-0645">423-290-0645</a></span>
@@ -149,7 +149,7 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="bethkingsolver.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/bethkingsolver.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Beth&nbsp;Kingsolver</strong></span>
 	<span style="display: block;"><a href="mailto:Bethcopper10@gmail.com">Bethcopper10@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:706-266-8225">706-266-8225</a></span>
@@ -164,7 +164,7 @@ Beth is excited to get out into our communities and help navigate clients throug
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="sarahmccloskey.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/sarahmccloskey.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Sarah&nbsp;McCloskey</strong></span>
 	<span style="display: block;"><a href="mailto:youragentsarah.m@gmail.com">youragentsarah.m@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:423-326-7954">423-326-7954</a></span>
@@ -176,7 +176,7 @@ Beth is excited to get out into our communities and help navigate clients throug
             padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="laurenjohnson.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/laurenjohnson.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Lauren&nbsp;Johnson</strong></span>
 	<span style="display: block;"><a href="mailto:johnsonlauren415@gmail.com">johnsonlauren415@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:423-883-1352">423-883-1352</a></span>
