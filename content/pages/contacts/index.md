@@ -2,7 +2,7 @@
 template: "page"
 socialImage: "./book.jpg"
 ---
-<div id="contact" className="text-center">
+<div style="text-align:center">
 <h2>Contact Us</h2>
 <table style="margin-left:auto;margin-right:auto;">
   <tr>
