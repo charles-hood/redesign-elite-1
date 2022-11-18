@@ -1,10 +1,8 @@
 ---
+title: Our Agents
 template: "page"
 socialImage: "./bonniehood.jpg"
 ---
-<div style="text-align:center">
-<h2>Our Agents</h2>
-</div>
 <div style="padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
