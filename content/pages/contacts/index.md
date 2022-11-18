@@ -1,31 +1,18 @@
 ---
-title: "Contact me"
 template: "page"
 socialImage: "./book.jpg"
 ---
-
-Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
-
-Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/book.jpg)
-
-_Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi._
-
-## Header Level 2
-
-Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.
-
-- **Lorem ipsum** dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
-- Vestibulum auctor dapibus neque.
-
-### Header Level 3
-
-Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec **consectetuer** ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.
-
-Pellentesque fermentum dolor. Aliquam quam lectus, facilisis auctor, ultrices ut, elementum vulputate, nunc.
-
-#### Header Level 4
-
-Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est.
+<div id="contact" className="text-center">
+<h2>Contact Us</h2>
+<table style="margin-left:auto;margin-right:auto;">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/png-icon.png" width="64" height="64" /></td>
+    <td><strong><em>Elite Realtors LLC<br /></em></strong>
+      <a href="https://maps.apple.com/?address=895%20Pollard%20Rd,%20Ringgold,%20GA%20%2030736,%20United%20States&ll=34.910413,-85.138420&q=895%20Pollard%20Rd&_ext=EiYp9vGG2/JzQUAxIK/UfjhJVcA5dMesNxl1QUBBgP6uBIVIVcBQBA%3D%3D">895 Pollard Rd.</a><br />
+Ringgold, GA 30736<br />
+<a href="mailto:info@eliterealtorsllc.com">info@eliterealtorsllc.com</a><br />
+<a href="tel:7069374663">(706) 937-HOME (4663)</a>
+</td>
+  </tr>
+</table>
+</div>
