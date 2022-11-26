@@ -173,3 +173,12 @@ Beth is excited to get out into our communities and help navigate clients throug
 	<span style="display: block;"><a href="tel:xxx-xxx-xxxx">xxx-xxx-xxxx</a></span>
 	<p>Chattanooga and the surrounding North GA areas are considered small towns. The word of mouth is a strong advocate to each business. That is why Taylor strives to leave a lasting impression on her skills to effectively communicate and follow through on her word to every client and friend who goes through a real estate transaction with her. Taylor was born and raised in the Chattanooga/North GA area, so it was never a question of which state to specialize in. She earned her license in Tennessee AND Georgia! She has worked full time selling homes for 6 years. For Taylor, as a local Realtor, every experience goes beyond the transaction because it's more than selling a home for her. She is your realtor, your friend, and your neighbor.</p>
 </div>
+<div style="padding: 10px; 
+            border: 1px solid lightgray; 
+            margin: 10px;">
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/aricapatterson.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<span style="display: block;"><strong>Arica&nbsp;Patterson</strong></span>
+	<span style="display: block;"><a href="mailto:apattersonhomes@gmail.com">apattersonhomes@gmail.com</a></span>
+	<span style="display: block;"><a href="tel:423-645-5979">423-645-5979</a></span>
+	<p>My name is Arica Patterson. I am a devoted Christian, wife and mother of three. I have been involved in real estate in some capacity my whole life. Most of my family is involved in real estate which has been instrumental in my success as a real estate agent. I am a firm believer in learning from the more experienced people around me. As I have watched and learned over the years I have been fortunate enough to be involved in every step of building a home as well as the remodeling process. As a result, when choosing a home or preparing a home for the market, I can offer my client the knowledge I have gained through my experiences. Buying or selling a home weather it is for you personally or as an investment is one of the biggest and most important decisions one will make. For this reason, I give each real estate transaction my full attention and do my very best to make the process a smooth and seamless transaction for all involved. I look foreword to helping any real estate dreams become reality.</p>
+</div>
