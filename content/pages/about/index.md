@@ -157,10 +157,9 @@ Beth is excited to get out into our communities and help navigate clients throug
 <div style="padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/vivianhurley.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Vivian&nbsp;Hurley</strong></span>
-	<span style="display: block;"><a href="mailto:vhurleyhomes@gmail.com">vhurleyhomes@gmail.com</a></span>
-	<span style="display: block;"><a href="tel:706-331-3541">706-331-3541</a></span>
-	<p>Native to the area, Vivian Hurley, is knowledgeable of the Greater Chattanooga region. Having lived in North Georgia and now residing in a small rural town just north of Chattanooga she licensed in both Georgia and Tennessee. Growing up 	on a farm in Chickamauga, Vivian knows the value of hard work and perseverance. Deciding to pursue a career in real estate two years ago allowed the freedom to be more present in her families lives. Basing her customer service on building 	relationships with current and future clients is what makes Vivian the ideal agent for first time home buyers, she will be with them every step of the way. When not helping clients find their dream home this mother of three and wife of 10 	years can be found camping or at the ball fields with her family any given weekend.
-	</p>
+	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/taylorgardenhire.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
+	<span style="display: block;"><strong>Taylor&nbsp;Gardenhire</strong></span>
+	<span style="display: block;"><a href="mailto:sweethome.taylor@gmail.com">sweethome.taylor@gmail.com</a></span>
+	<span style="display: block;"><a href="tel:xxx-xxx-xxxx">xxx-xxx-xxxx</a></span>
+	<p>Chattanooga and the surrounding North GA areas are considered small towns. The word of mouth is a strong advocate to each business. That is why Taylor strives to leave a lasting impression on her skills to effectively communicate and follow through on her word to every client and friend who goes through a real estate transaction with her. Taylor was born and raised in the Chattanooga/North GA area, so it was never a question of which state to specialize in. She earned her license in Tennessee AND Georgia! She has worked full time selling homes for 6 years. For Taylor, as a local Realtor, every experience goes beyond the transaction because it's more than selling a home for her. She is your realtor, your friend, and your neighbor.</p>
 </div>
