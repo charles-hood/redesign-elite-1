@@ -113,16 +113,6 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
 <div style="padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/amberstepanek.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Amber&nbsp;Stepanek</strong></span>
-	<span style="display: block;"><a href="mailto:astepanekhomes@gmail.com">astepanekhomes@gmail.com</a></span>
-	<span style="display: block;"><a href="tel:423-290-0645">423-290-0645</a></span>
-	<p>Amber is a lifelong resident of North Georgia. She started working as an administrative assistant in 2009 and fell in love with real estate. It was not until 2020 when she finally took the leap and decided to do real estate full time. She's licensed in both Tennessee and Georgia, specializing in first time home buyers. Amber loves working the process from start to finish. Her goal is to have her clients be as well informed as possible, to be treated like family and to always put their best interest first. Amber currently reside in LaFayette with her daughter Aubrey and son Landon and their two dogs Mira and Mauser. She looks forward to working with you and helping you find home!
-	</p>
-</div>
-<div style="padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
 	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/bethkingsolver.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Beth&nbsp;Kingsolver</strong></span>
 	<span style="display: block;"><a href="mailto:Bethcopper10@gmail.com">Bethcopper10@gmail.com</a></span>
@@ -142,17 +132,6 @@ Beth is excited to get out into our communities and help navigate clients throug
 	<span style="display: block;"><a href="tel:423-326-7954">423-326-7954</a></span>
 	<p>Born in Lincoln, Illinois, relocated to Chickamauga, Georgia in 2005 and loving every minute of it! For the past several years I have worked as a Family Engagement Coordinator for a local elementary school in NW Georgia. My school families and students bring me so much joy! When my husband and I began the search for our first home, we called Martha Alexander to help us on our journey. She was then and still is fantastic to work with! It was very obvious to see how much she loved her job and I realized then that this was something I wanted to be a part of. I took the leap into real estate and I’m loving being a part of Elite Realtors! Whether it be navigating the way for first time home buyers or helping you find your forever home, from the first phone call to closing, I will be there for my clients every step of the way.
 	</p>
-</div>
-<div style="padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
-	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/laurenjohnson.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Lauren&nbsp;Johnson</strong></span>
-	<span style="display: block;"><a href="mailto:johnsonlauren415@gmail.com">johnsonlauren415@gmail.com</a></span>
-	<span style="display: block;"><a href="tel:423-883-1352">423-883-1352</a></span>
-	<p>Hi, I'm Lauren Johnson! I am a Realtor licensed in both Tennessee and Georgia for over four years. I am a Chattooga native now residing in Northwest Georgia with my husband, three children, and our two fur babies.</p>
-<p>As a Real Estate lover and Marine wife, I take special interest in working with Veterans and those qualified for VA loans. My goal is to make the process simple and stress-free while forming a lasting relationship with my clients.</p>
-	<p>I look forward to helping you find your perfect home!</p>
 </div>
 <div style="padding: 10px; 
             border: 1px solid lightgray; 
