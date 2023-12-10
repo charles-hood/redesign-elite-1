@@ -40,26 +40,6 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
 <div style="padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/marthaalexander.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Martha&nbsp;Alexander</strong></span>
-	<span style="display: block;"><a href="mailto:yourrealtormartha@gmail.com">yourrealtormartha@gmail.com</a></span>
-	<span style="display: block;"><a href="tel:4235932500">(423) 593-2500</a></span>
-	<p>Martha Alexander has been a Realtor for 15 years. She’s from Rock Spring, GA and originally from Houston, TX. Along with being a devoted wife and mother of two, she studied speech communications at West Texas A&M University and is also bilingual. Professionalism and her client’s best interest are her top priorities. Her vast real estate knowledge and expertise allow her clients and customers to have the most effective and pleasant transactions possible. Martha is upbeat, positive, and has an infectious personality. You will instantly feel like you’ve known her for many years.
-	</p>
-</div>
-<div style="padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
-	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/nathanphillips.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Nathan&nbsp;Phillips</strong></span>
-	<span style="display: block;"><a href="mailto:nphillipsrealtor@gmail.com">nphillipsrealtor@gmail.com</a></span>
-	<span style="display: block;"><a href="tel:4232270005">(423) 227-0005</a></span>
-	<p>Nathan Phillips is a member of the National Association of Realtors, Greater Chattanooga Association of Realtors, and Georgia Association of Realtors. He lives with his wife and two children in Northwest Georgia.  As both a realtor and a registered nurse working with hospice patients, his devotion to helping and caring for people is unmatched. His passion for real estate was ignited after buying his first home. Since 2014, he has helped many Chattanooga area residents purchase and sell their homes. Nathan’s inviting personality and strong work-ethic will help both buyers and sellers feel comfortable and informed through every transaction.  As a seasoned agent and life-long resident of the Chattanooga area, Nathan has the expertise to help you find the home of your dreams.
-	</p>
-</div>
-<div style="padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
 	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/lisaheadrick.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Lisa&nbsp;Headrick</strong></span>
 	<span style="display: block;"><a href="mailto:lheadrick24@aol.com">lheadrick24@aol.com</a></span>
@@ -90,47 +70,12 @@ Bonnie currently resides with husband Stan in Ringgold, Georgia.  In her spare t
 <div style="padding: 10px; 
             border: 1px solid lightgray; 
             margin: 10px;">
-	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/shellietyrrell.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Shellie&nbsp;Tyrrell</strong></span>
-	<span style="display: block;"><a href="mailto:shellie.elite@gmail.com">shellie.elite@gmail.com</a></span>
-	<span style="display: block;"><a href="tel:7043904882">(704) 390-4882</a></span>
-	<p>Shellie is a new Realtor. She has a degree in respiratory therapy and has a small business selling gifts.</p>
-	<p>She resides in Ringgold with her husband and her fur babies.</p>
-	<p>Shellie is ready to help you find the home you need for this stage of your life.
-	</p>
-</div>
-<div style="padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
 	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tylerpayne.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
 	<span style="display: block;"><strong>Tyler&nbsp;Payne</strong></span>
 	<span style="display: block;"><a href="mailto:Paynetyler111@gmail.com">Paynetyler111@gmail.com</a></span>
 	<span style="display: block;"><a href="tel:423-508-4136">423-508-4136</a></span>
 	<p>At the end of 2020, Tyler initially began investing in real estate before ultimately deciding to pursue real estate as his full time career. Over the past year, he has developed relationships that have thrust him even deeper into discovering his passion for real estate. He received his license in March of 2021. Tyler graduated from The McCallie School in 2015, and then attended Lee University where he played baseball for four years and graduated with a degree in Business Finance.</p>
 		<p>As a lifelong resident of the North Georgia and Greater Chattanooga areas, Tyler brings a deep understanding of the community that surrounds it.
-	</p>
-</div>
-<div style="padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
-	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/bethkingsolver.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Beth&nbsp;Kingsolver</strong></span>
-	<span style="display: block;"><a href="mailto:Bethcopper10@gmail.com">Bethcopper10@gmail.com</a></span>
-	<span style="display: block;"><a href="tel:706-266-8225">706-266-8225</a></span>
-	<p>Beth is a lifelong resident of Northwest Georgia, growing up in Adairsville, attending college in Rome, and currently residing in Summerville. 
-She is a mother of four and owns two local restaurants with her husband. Before becoming a stay-at-home mother for several years, Beth was a newspaper journalist and member of several community boards and committees. 
-As her background reveals, she is fully invested in the areas she serves as an agent in both Georgia and Tennessee and looks forward to showing newcomers around.
-Beth is excited to get out into our communities and help navigate clients through the home buying and selling process, hoping to make the transaction as laidback and stress free as possible.
-	</p>
-</div>
-<div style="padding: 10px; 
-            border: 1px solid lightgray; 
-            margin: 10px;">
-	<img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/sarahmccloskey.jpg" align="left" style="float:left;padding:0 10px 0 0; border-radius: 30%;" width="250px"/>
-	<span style="display: block;"><strong>Sarah&nbsp;McCloskey</strong></span>
-	<span style="display: block;"><a href="mailto:youragentsarah.m@gmail.com">youragentsarah.m@gmail.com</a></span>
-	<span style="display: block;"><a href="tel:423-326-7954">423-326-7954</a></span>
-	<p>Born in Lincoln, Illinois, relocated to Chickamauga, Georgia in 2005 and loving every minute of it! For the past several years I have worked as a Family Engagement Coordinator for a local elementary school in NW Georgia. My school families and students bring me so much joy! When my husband and I began the search for our first home, we called Martha Alexander to help us on our journey. She was then and still is fantastic to work with! It was very obvious to see how much she loved her job and I realized then that this was something I wanted to be a part of. I took the leap into real estate and I’m loving being a part of Elite Realtors! Whether it be navigating the way for first time home buyers or helping you find your forever home, from the first phone call to closing, I will be there for my clients every step of the way.
 	</p>
 </div>
 <div style="padding: 10px; 
