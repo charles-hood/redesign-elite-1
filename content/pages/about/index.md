@@ -133,3 +133,9 @@ socialImage: "./elite-gold-black.jpg"
   <p>She looks forward to being a part of such a life-changing milestone in you and your family's lives!</p>
 </div>
 
+<!-- Return to Home Button -->
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://eliterealtorsinc.com" style="padding: 10px 20px; background-color: #ffcc00; color: #333; text-decoration: none; border-radius: 5px; font-weight: bold;">
+    Back to Home Page
+  </a>
+</div>
