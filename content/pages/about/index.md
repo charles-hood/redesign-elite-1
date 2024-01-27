@@ -135,7 +135,7 @@ socialImage: "./elite-gold-black.jpg"
 
 <!-- Return to Home Button -->
 <div style="text-align: center; margin-top: 20px;">
-  <a href="https://eliterealtorsinc.com" style="padding: 10px 20px; background-color: #ffcc00; color: #333; text-decoration: none; border-radius: 5px; font-weight: bold;">
+  <a href="https://eliterealtorsllc.com/" style="padding: 10px 20px; background-color: #ffcc00; color: #333; text-decoration: none; border-radius: 5px; font-weight: bold;">
     Back to Home Page
   </a>
 </div>
