@@ -115,17 +115,21 @@ socialImage: "./elite-gold-black.jpg"
   <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/katelynkiser.jpg" class="agent-info agent-image" />
   <span style="display: block;"><strong>Katelyn Kiser</strong></span>
   <span style="display: block;"><a href="mailto:Katelynkiser892@gmail.com">Katelynkiser892@gmail.com</a></span>
+  <span style="display: block;"><a href="tel:7069782726">706-978-2726</a></span>
   <p>I am a small town Realtor with a forever-growing passion to learn. As a Northwest Georgia native, I have intimate knowledge of the area and surrounding areas with a strong desire to help you find your home. Raven, is my beautiful daughter that makes me have a very strong will to succeed and make things happen. I treat all clients as if they are family while having a friendly demeanor and a humorous relationship with each of them.</p>
   <p>Establishing a positive communication flow with agents, clients, lenders, and all other parties involved in the closing process is important and I have done just that. All the while assisting first-time home buyers and investors in finding ideal homes by assessing needs, requirements, and budgets. I am a strong negotiator and advocate for my clients… assertive and efficient.</p>
   <p>Is it time for something new? Let’s talk!</p>
 </div>
+
 
 <!-- Agent 11 -->
 <div class="agent-container">
   <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/ashleybell.jpg" class="agent-info agent-image" />
   <span style="display: block;"><strong>Ashley Bell</strong></span>
   <span style="display: block;"><a href="mailto:ashleyblakebell@gmail.com">ashleyblakebell@gmail.com</a></span>
+  <span style="display: block;"><a href="tel:4235950428">423-595-0428</a></span>
   <p>Ashley is a lifelong resident of Northwest Georgia. She currently resides in Summerville with her husband Scott and daughter Amelia. She obtained her license in January of 2019. She has always had a love for design and real estate and finally decided to start her career in real estate! She is licensed in both the state of Georgia and Tennessee while also having referral connections in the other various states.</p>
   <p>Ashley enjoys working with first-time home buyers. She enjoys allowing her clients to soak in the process while she takes on the work and stress that comes with real estate. Communication is very important to Ashley so that is something you won't have to worry about! She loves walking her clients through the process, providing them with valuable information as well as making connections with not only them but connecting them with contractors to aid in the purchase and/or sale of their home!</p>
   <p>She looks forward to being a part of such a life-changing milestone in you and your family's lives!</p>
 </div>
+
