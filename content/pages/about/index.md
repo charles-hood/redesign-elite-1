@@ -109,3 +109,13 @@ socialImage: "./elite-gold-black.jpg"
   <span style="display: block;"><a href="tel:4232276346">423-227-6346</a></span>
   <p>Tonya Blevins is a devoted Christian and loves her community. She is a native of Chattanooga, Tennessee and North Georgia areas and currently resides in Ringgold, Georgia. She has been a licensed Realtor since 2022. She is licensed in both Georgia and Tennessee. She has 25+ years' experience in leadership and customer service, which has given her the skills needed in real estate. Her desire to help others is what gave her the passion to become a Realtor. She puts integrity, patience, and perseverance into the process of finding a home a success. She will pay attention to detail in each real estate transaction to make the buying/selling process go smoothly. The knowledge she has gained from mentorship and education will help her in achieving that goal. She specializes in first-time home buyers and new construction. She would love to help you and your family find your desired home.</p>
 </div>
+
+<!-- Agent 10 -->
+<div class="agent-container">
+  <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/katelynkiser.jpg" class="agent-info agent-image" />
+  <span style="display: block;"><strong>Katelyn Kiser</strong></span>
+  <span style="display: block;"><a href="mailto:Katelynkiser892@gmail.com">Katelynkiser892@gmail.com</a></span>
+  <p>I am a small town Realtor with a forever-growing passion to learn. As a Northwest Georgia native, I have intimate knowledge of the area and surrounding areas with a strong desire to help you find your home. Raven, is my beautiful daughter that makes me have a very strong will to succeed and make things happen. I treat all clients as if they are family while having a friendly demeanor and a humorous relationship with each of them.</p>
+  <p>Establishing a positive communication flow with agents, clients, lenders, and all other parties involved in the closing process is important and I have done just that. All the while assisting first-time home buyers and investors in finding ideal homes by assessing needs, requirements, and budgets. I am a strong negotiator and advocate for my clients… assertive and efficient.</p>
+  <p>Is it time for something new? Let’s talk!</p>
+</div>
