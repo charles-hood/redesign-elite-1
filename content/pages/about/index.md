@@ -100,3 +100,12 @@ socialImage: "./elite-gold-black.jpg"
   <span style="display: block;"><a href="tel:423-645-5979">423-645-5979</a></span>
   <p>My name is Arica Patterson. I am a devoted Christian, wife, and mother of three. I have been involved in real estate in some capacity my whole life. Most of my family is involved in real estate which has been instrumental in my success as a real estate agent. I am a firm believer in learning from the more experienced people around me. As I have watched and learned over the years I have been fortunate enough to be involved in every step of building a home as well as the remodeling process. As a result, when choosing a home or preparing a home for the market, I can offer my client the knowledge I have gained through my experiences. Buying or selling a home whether it is for you personally or as an investment is one of the biggest and most important decisions one will make. For this reason, I give each real estate transaction my full attention and do my very best to make the process a smooth and seamless transaction for all involved. I look forward to helping any real estate dreams become reality.</p>
 </div>
+
+<!-- Agent 9 -->
+<div class="agent-container">
+  <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tonyablevins.jpg" class="agent-info agent-image" />
+  <span style="display: block;"><strong>Tonya Blevins</strong></span>
+  <span style="display: block;"><a href="mailto:tonya.therealtor.4u@gmail.com">tonya.therealtor.4u@gmail.com</a></span>
+  <span style="display: block;"><a href="tel:4232276346">423-227-6346</a></span>
+  <p>Tonya Blevins is a devoted Christian and loves her community. She is a native of Chattanooga, Tennessee and North Georgia areas and currently resides in Ringgold, Georgia. She has been a licensed Realtor since 2022. She is licensed in both Georgia and Tennessee. She has 25+ years' experience in leadership and customer service, which has given her the skills needed in real estate. Her desire to help others is what gave her the passion to become a Realtor. She puts integrity, patience, and perseverance into the process of finding a home a success. She will pay attention to detail in each real estate transaction to make the buying/selling process go smoothly. The knowledge she has gained from mentorship and education will help her in achieving that goal. She specializes in first-time home buyers and new construction. She would love to help you and your family find your desired home.</p>
+</div>
