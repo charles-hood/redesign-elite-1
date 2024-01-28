@@ -8,7 +8,6 @@ socialImage: "./elite-gold-black.jpg"
   /* Stylish Agent Card Styles */
   .agent-card {
     display: flex;
-    flex-direction: column;
     align-items: center;
     border: 1px solid lightgray;
     border-radius: 10px;
@@ -20,10 +19,9 @@ socialImage: "./elite-gold-black.jpg"
   }
 
   .agent-image {
-    width: 100%; /* Make the image fill the container */
-    max-width: 100%; /* Ensure the image doesn't exceed its natural size */
+    width: 250px; /* Set the width to 250px */
     height: auto; /* Maintain aspect ratio */
-    border-bottom: 1px solid lightgray; /* Add a border between image and details */
+    object-fit: cover;
   }
 
   .agent-details {
@@ -62,17 +60,30 @@ socialImage: "./elite-gold-black.jpg"
     text-decoration: none;
   }
 
-  /* Media Query for mobile view */
-  @media (max-width: 767px) {
+  /* Media Query for desktop view */
+  @media (min-width: 768px) {
     .agent-card {
-      margin-bottom: 10px;
+      flex-direction: row;
     }
 
     .agent-image {
-      max-width: 100%; /* Adjust only the max-width for mobile */
+      margin-right: 20px;
+    }
+  }
+
+  /* Media Query for mobile view */
+  @media (max-width: 767px) {
+    .agent-card {
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .agent-image {
+      margin-bottom: 10px;
     }
   }
 </style>
+
 
 <!-- Agent 1 -->
 <div class="agent-card">
