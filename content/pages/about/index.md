@@ -8,28 +8,31 @@ socialImage: "./elite-gold-black.jpg"
   /* Stylish Agent Card Styles */
   .agent-card {
     display: flex;
+    flex-direction: column; /* Adjusted flex direction for mobile view */
     align-items: center;
     border: 1px solid lightgray;
     border-radius: 10px;
     overflow: hidden;
     margin-bottom: 20px;
-    margin-top: 10px; /* Adjusted margin at the top */
+    margin-top: 10px;
     background-color: #fff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
 
   .agent-image {
-    width: 200px;
-    height: 200px;
+    width: 100%; /* Adjusted width for mobile view */
+    max-width: 200px; /* Added max-width for better responsiveness */
+    height: auto; /* Allowing aspect ratio to be maintained */
     object-fit: cover;
   }
 
   .agent-details {
     padding: 20px;
+    text-align: center; /* Centering text for mobile view */
   }
 
   .agent-details h3 {
-    margin-top: 5px; /* Reduced margin above the agent's name */
+    margin-top: 5px;
     color: #333;
   }
 
@@ -48,15 +51,22 @@ socialImage: "./elite-gold-black.jpg"
   .return-home-button {
     display: block;
     text-align: center;
-    margin: 20px auto; /* Centered with top margin */
+    margin: 20px auto;
     padding: 10px;
     border-radius: 5px;
   }
 
   .return-home-button a {
-    background-color: #ffd700; /* Yellow background for the link text */
-    color: #000; /* Black text */
+    background-color: #ffd700;
+    color: #000;
     text-decoration: none;
+  }
+
+  /* Media Query for mobile view */
+  @media (max-width: 768px) {
+    .agent-details {
+      padding: 10px; /* Reduced padding for mobile view */
+    }
   }
 </style>
 
