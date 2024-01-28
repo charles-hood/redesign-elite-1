@@ -13,6 +13,7 @@ socialImage: "./elite-gold-black.jpg"
     border-radius: 10px;
     overflow: hidden;
     margin-bottom: 20px;
+    margin-top: 10px; /* Adjusted margin at the top */
     background-color: #fff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
