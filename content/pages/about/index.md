@@ -44,23 +44,29 @@ socialImage: "./elite-gold-black.jpg"
     transition: transform 0.3s ease-in-out;
   }
 
-  /* Style for the return home button */
-  .return-home-button {
-    display: block;
-    text-align: center;
-    margin: 20px auto;
-    padding: 10px;
-    border-radius: 5px;
-  }
+ /* Style for the return home button */
+.return-home-button {
+  display: block;
+  text-align: center;
+  margin: 20px auto;
+  padding: 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease-in-out;
+}
 
-  .return-home-button a {
-    background-color: #ffd700;
-    color: #000;
-    text-decoration: none;
-  }
+.return-home-button a {
+  background-color: #ffd700;
+  color: #000;
+  text-decoration: none;
+}
+
+/* Add hover effect to the return home button */
+.return-home-button:hover {
+  background-color: #ffcc00; /* Change to a slightly different shade on hover */
+}
 
   /* Media Query for desktop view */
-  @media (min-width: 769px) {
+  @media (min-width: 768px) {
     .agent-card {
       flex-direction: row;
     }
