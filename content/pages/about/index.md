@@ -29,7 +29,7 @@ socialImage: "./elite-gold-black.jpg"
   }
 
   .agent-details h3 {
-    margin-bottom: 10px;
+    margin-top: 5px; /* Reduced margin above the agent's name */
     color: #333;
   }
 
