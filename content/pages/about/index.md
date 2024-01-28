@@ -8,6 +8,7 @@ socialImage: "./elite-gold-black.jpg"
   /* Stylish Agent Card Styles */
   .agent-card {
     display: flex;
+    flex-direction: column;
     align-items: center;
     border: 1px solid lightgray;
     border-radius: 10px;
@@ -19,9 +20,9 @@ socialImage: "./elite-gold-black.jpg"
   }
 
   .agent-image {
-    width: 200px;
-    height: 200px;
-    object-fit: cover;
+    width: 100%; /* Make the image fill the container */
+    height: auto; /* Maintain aspect ratio */
+    border-bottom: 1px solid lightgray; /* Add a border between image and details */
   }
 
   .agent-details {
@@ -44,35 +45,26 @@ socialImage: "./elite-gold-black.jpg"
     transition: transform 0.3s ease-in-out;
   }
 
- /* Style for the return home button */
-.return-home-button {
-  display: block;
-  text-align: center;
-  margin: 20px auto;
-  padding: 10px;
-  border-radius: 5px;
-  transition: background-color 0.3s ease-in-out;
-}
+  /* Style for the return home button */
+  .return-home-button {
+    display: block;
+    text-align: center;
+    margin: 20px auto;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease-in-out;
+  }
 
-.return-home-button a {
-  background-color: #ffd700;
-  color: #000;
-  text-decoration: none;
-}
+  .return-home-button a {
+    background-color: #ffd700;
+    color: #000;
+    text-decoration: none;
+  }
 
-/* Add hover effect to the return home button */
-.return-home-button:hover {
-  background-color: #ffcc00; /* Change to a slightly different shade on hover */
-}
-
-  /* Media Query for desktop view */
-  @media (min-width: 768px) {
+  /* Media Query for mobile view */
+  @media (max-width: 767px) {
     .agent-card {
-      flex-direction: row;
-    }
-
-    .agent-image {
-      margin-right: 20px;
+      margin-bottom: 10px;
     }
   }
 </style>
