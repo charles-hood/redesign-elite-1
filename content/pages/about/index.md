@@ -66,6 +66,7 @@ socialImage: "./elite-gold-black.jpg"
   @media (max-width: 768px) {
     .agent-details {
       padding: 10px; /* Reduced padding for mobile view */
+      text-align: left; /* Align text to the left on mobile view */
     }
   }
 </style>
