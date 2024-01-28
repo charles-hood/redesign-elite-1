@@ -12,7 +12,7 @@ socialImage: "./elite-gold-black.jpg"
     border: 1px solid lightgray;
     border-radius: 10px;
     overflow: hidden;
-    margin-bottom: 10px; /* Reduced margin */
+    margin-bottom: 20px;
     background-color: #fff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
@@ -24,16 +24,16 @@ socialImage: "./elite-gold-black.jpg"
   }
 
   .agent-details {
-    padding: 10px; /* Reduced padding */
+    padding: 20px;
   }
 
   .agent-details h3 {
-    margin-bottom: 5px; /* Reduced margin */
+    margin-bottom: 10px;
     color: #333;
   }
 
   .agent-details p {
-    margin: 3px 0; /* Reduced margin */
+    margin: 5px 0;
     color: #666;
   }
 
@@ -49,10 +49,13 @@ socialImage: "./elite-gold-black.jpg"
     text-align: center;
     margin: 20px auto; /* Centered with top margin */
     padding: 10px;
-    background-color: #ffd700; /* Yellow background */
+    border-radius: 5px;
+  }
+
+  .return-home-button a {
+    background-color: #ffd700; /* Yellow background for the link text */
     color: #000; /* Black text */
     text-decoration: none;
-    border-radius: 5px;
   }
 </style>
 
