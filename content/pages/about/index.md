@@ -8,7 +8,6 @@ socialImage: "./elite-gold-black.jpg"
   /* Stylish Agent Card Styles */
   .agent-card {
     display: flex;
-    flex-direction: column; /* Adjusted flex direction for mobile view */
     align-items: center;
     border: 1px solid lightgray;
     border-radius: 10px;
@@ -20,19 +19,17 @@ socialImage: "./elite-gold-black.jpg"
   }
 
   .agent-image {
-    width: 100%; /* Adjusted width for mobile view */
-    max-width: 200px; /* Added max-width for better responsiveness */
-    height: auto; /* Allowing aspect ratio to be maintained */
+    width: 200px;
+    height: 200px;
     object-fit: cover;
   }
 
   .agent-details {
     padding: 20px;
-    text-align: center; /* Centering text for mobile view */
   }
 
   .agent-details h3 {
-    margin-top: 5px;
+    margin-bottom: 10px;
     color: #333;
   }
 
@@ -62,11 +59,14 @@ socialImage: "./elite-gold-black.jpg"
     text-decoration: none;
   }
 
-  /* Media Query for mobile view */
-  @media (max-width: 768px) {
-    .agent-details {
-      padding: 10px; /* Reduced padding for mobile view */
-      text-align: left; /* Align text to the left on mobile view */
+  /* Media Query for desktop view */
+  @media (min-width: 769px) {
+    .agent-card {
+      flex-direction: row;
+    }
+
+    .agent-image {
+      margin-right: 20px;
     }
   }
 </style>
