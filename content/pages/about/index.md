@@ -21,6 +21,7 @@ socialImage: "./elite-gold-black.jpg"
 
   .agent-image {
     width: 100%; /* Make the image fill the container */
+    max-width: 100%; /* Ensure the image doesn't exceed its natural size */
     height: auto; /* Maintain aspect ratio */
     border-bottom: 1px solid lightgray; /* Add a border between image and details */
   }
@@ -65,6 +66,10 @@ socialImage: "./elite-gold-black.jpg"
   @media (max-width: 767px) {
     .agent-card {
       margin-bottom: 10px;
+    }
+
+    .agent-image {
+      max-width: 100%; /* Adjust only the max-width for mobile */
     }
   }
 </style>
