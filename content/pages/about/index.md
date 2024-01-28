@@ -12,7 +12,7 @@ socialImage: "./elite-gold-black.jpg"
     border: 1px solid lightgray;
     border-radius: 10px;
     overflow: hidden;
-    margin-bottom: 20px;
+    margin-bottom: 10px; /* Reduced margin */
     background-color: #fff;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
@@ -24,16 +24,16 @@ socialImage: "./elite-gold-black.jpg"
   }
 
   .agent-details {
-    padding: 20px;
+    padding: 10px; /* Reduced padding */
   }
 
   .agent-details h3 {
-    margin-bottom: 10px;
+    margin-bottom: 5px; /* Reduced margin */
     color: #333;
   }
 
   .agent-details p {
-    margin: 5px 0;
+    margin: 3px 0; /* Reduced margin */
     color: #666;
   }
 
@@ -41,6 +41,18 @@ socialImage: "./elite-gold-black.jpg"
   .agent-card:hover {
     transform: scale(1.02);
     transition: transform 0.3s ease-in-out;
+  }
+
+  /* Style for the return home button */
+  .return-home-button {
+    display: block;
+    text-align: center;
+    margin: 20px auto; /* Centered with top margin */
+    padding: 10px;
+    background-color: #ffd700; /* Yellow background */
+    color: #000; /* Black text */
+    text-decoration: none;
+    border-radius: 5px;
   }
 </style>
 
@@ -165,4 +177,9 @@ socialImage: "./elite-gold-black.jpg"
     <p>Phone: <a href="tel:4235950428">423-595-0428</a></p>
     <p>Ashley is a lifelong resident of Northwest Georgia. She currently resides in Summerville with her husband Scott and daughter Amelia. She obtained her license in January of 2019. She has always had a love for design and real estate and finally decided to start her career in real estate! She is licensed in both the state of Georgia and Tennessee while also having referral connections in the other various states. Ashley enjoys working with first-time home buyers. She enjoys allowing her clients to soak in the process while she takes on the work and stress that comes with real estate. Communication is very important to Ashley so that is something you won't have to worry about! She loves walking her clients through the process, providing them with valuable information as well as making connections with not only them but connecting them with contractors to aid in the purchase and/or sale of their home! She looks forward to being a part of such a life-changing milestone in you and your family's lives!</p>
   </div>
+</div>
+
+<!-- Return Home Button -->
+<div class="return-home-button">
+  <a href="https://eliterealtorsllc.com">Return Home</a>
 </div>
