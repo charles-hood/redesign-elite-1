@@ -60,14 +60,19 @@ socialImage: "./elite-gold-black.jpg"
     text-decoration: none;
   }
 
+  /* Add hover effect to the return home button */
+  .return-home-button:hover {
+    background-color: #ffcc00; /* Change to a slightly different shade on hover */
+  }
+
   /* Media Query for desktop view */
   @media (min-width: 768px) {
     .agent-card {
-      flex-direction: row;
+      flex-direction: column; /* Set flex-direction to column for desktop view */
     }
 
     .agent-image {
-      margin-right: 20px;
+      margin-bottom: 20px; /* Add margin to separate image and text */
     }
   }
 
@@ -83,7 +88,6 @@ socialImage: "./elite-gold-black.jpg"
     }
   }
 </style>
-
 
 <!-- Agent 1 -->
 <div class="agent-card">
