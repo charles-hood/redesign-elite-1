@@ -7,7 +7,7 @@ socialImage: "./elite-gold-black.jpg"
   iframe {
     display: block;
     width: 100%;
-    height: auto; /* Make the height responsive */
+    height: 800px; /* Fixed height */
     border: 0; /* Remove iframe border */
   }
 </style>
