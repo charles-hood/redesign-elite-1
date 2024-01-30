@@ -10,9 +10,19 @@ socialImage: "./elite-gold-black.jpg"
     height: 800px; /* Fixed height */
     border: 0; /* Remove iframe border */
   }
+
+  .logo-container {
+    display: flex;
+    justify-content: center;
+  }
+
+  .logo-container img {
+    width: 400px;
+    height: 75px;
+  }
 </style>
 
-<div style="text-align: center;">
+<div class="logo-container">
   <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/main/elite-banner-800x150.jpg" alt="Elite Banner">
 </div>
 
