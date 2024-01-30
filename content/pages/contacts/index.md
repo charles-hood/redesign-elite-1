@@ -20,7 +20,7 @@ socialImage: "./logo-circle.png"
   </div>
 
   <!-- Google Maps Embed Row -->
-  <div style="margin: 0 auto; max-width: 400px; padding-top: 20px;">
+  <div style="margin: 0 auto; max-width: 600px; padding-top: 20px;">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3271.8786993367935!2d-85.14064592280835!3d34.909493472846194!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88606fa54e2ce4d3%3A0x187736ffeeca9789!2s895%20Pollard%20Rd%2C%20Ringgold%2C%20GA%2030736!5e0!3m2!1sen!2sus!4v1706581117454!5m2!1sen!2sus" width="100%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
 </div>
