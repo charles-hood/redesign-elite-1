@@ -6,8 +6,8 @@ socialImage: "./logo-circle.png"
 
 <div style="text-align:center; padding-bottom: 20px; display: flex; flex-direction: column; align-items: center;">
   <!-- Logo and Address Row -->
-  <div style="max-width: 600px; display: flex; flex-direction: column; align-items: center;">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/contacts/logo-circle.png" height="128" alt="Elite Realtors LLC Logo" style="margin-bottom: 10px;">
+  <div style="max-width: 600px; display: flex; align-items: center;">
+    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/contacts/logo-circle.png" height="128" alt="Elite Realtors LLC Logo" style="margin-right: 20px;">
     <div>
       <strong><em>Elite Realtors LLC</em></strong><br>
       <a href="https://maps.apple.com/?address=895%20Pollard%20Rd,%20Ringgold,%20GA%20%2030736,%20United%20States&ll=34.910413,-85.138420&q=895%20Pollard%20Rd&_ext=EiYp9vGG2/JzQUAxIK/UfjhJVcA5dMesNxl1QUBBgP6uBIVIVcBQBA%3D%3D" target="_blank" rel="noopener noreferrer">
