@@ -27,3 +27,4 @@ socialImage: "./elite-gold-black.jpg"
 </div>
 
 <iframe src="https://my.flexmls.com/eliterealtorsllc/search/listing_categories/Active/listings" frameborder="0" style="border:0;"></iframe>
+<p align=center><small>You can also view our <a href="https://eliterealtorsllc.com/listings.html">basic listings</a> table</small></p>
