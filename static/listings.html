@@ -4,59 +4,40 @@
       <head>
         <title>Listings</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
         <style>
           body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-          }
-          h1 {
-            text-align: center;
-            color: #333;
-          }
-          table {
-            border-collapse: collapse;
-            width: 100%;
-            margin-top: 20px;
-          }
-          th, td {
-            border: 1px solid #ddd;
-            padding: 12px;
-            text-align: left;
-          }
-          th {
-            background-color: #f2f2f2;
-            font-weight: bold;
+            font-family: 'Montserrat', sans-serif;
           }
           .listing-image {
-            width: 100px;
+            width: 120px;
             height: auto;
+            transition: transform 0.3s ease;
           }
-          @media screen and (max-width: 600px) {
-            table {
-              font-size: 14px;
-            }
-            .listing-image {
-              width: 80px;
-            }
+          .listing-image:hover {
+            transform: scale(1.05);
           }
         </style>
       </head>
-      <body>
-        <h1><a href="https://eliterealtorsllc.com/" style="text-decoration: none; color: inherit;">Elite Realtors LLC</a></h1>
-        <table>
-          <thead>
-            <tr>
-              <th>Photo</th>
-              <th>Address</th>
-              <th>Price</th>
-              <th>Beds</th>
-              <th>Baths</th>
-              <th>Sqft</th>
-            </tr>
-          </thead>
-          <tbody>
-            
+      <body class="bg-gray-100">
+        <div class="container mx-auto px-4 py-8">
+          <h1 class="text-4xl font-bold text-center mb-8">
+            <a href="https://eliterealtorsllc.com/" class="text-blue-600 hover:text-blue-800">Elite Realtors LLC</a>
+          </h1>
+          <table class="w-full bg-white shadow-md rounded-lg overflow-hidden">
+            <thead>
+              <tr class="bg-blue-600 text-white">
+                <th class="py-4 px-6">Photo</th>
+                <th class="py-4 px-6">Address</th>
+                <th class="py-4 px-6">Price</th>
+                <th class="py-4 px-6">Beds</th>
+                <th class="py-4 px-6">Baths</th>
+                <th class="py-4 px-6">Sqft</th>
+              </tr>
+            </thead>
+            <tbody>
+              
         <tr>
           <td><a href="https://my.flexmls.com/eliterealtorsllc/search/listing_categories/Active/listings/20240302215158000064000000?from_filter=false" target="_blank"><img src="https://cdn.resize.sparkplatform.com/gcar/640x480/true/20240302225023786935000000-o.jpg" alt="195 Quail Run, LaFayette, GA" class="listing-image"></a></td>
           <td><a href="https://my.flexmls.com/eliterealtorsllc/search/listing_categories/Active/listings/20240302215158000064000000?from_filter=false" target="_blank">195 Quail Run, LaFayette, GA</a></td>
@@ -183,13 +164,13 @@
           <td>N/A</td>
         </tr>
       
-          </tbody>
-        </table>
-        <!-- Return to Home Button -->
-        <div style="text-align: center; margin-top: 20px;">
-          <a href="https://eliterealtorsllc.com/" style="text-decoration: none; display: inline-block; padding: 10px 20px; background-color: #007BFF; color: #fff; border-radius: 5px; font-weight: bold;">
-            Return to Home
-          </a>
+            </tbody>
+          </table>
+          <div class="text-center mt-8">
+            <a href="https://eliterealtorsllc.com/" class="inline-block bg-blue-600 text-white py-2 px-6 rounded-full font-semibold hover:bg-blue-800 transition duration-300">
+              Return to Home
+            </a>
+          </div>
         </div>
       </body>
     </html>
