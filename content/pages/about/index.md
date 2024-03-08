@@ -5,64 +5,67 @@ socialImage: "./elite-gold-black.jpg"
 ---
 
 <style>
-  .agent-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    margin-top: 20px;
+  .agent-container {
+    position: relative;
+    padding: 10px;
+    border: 1px solid lightgray;
+    margin: 10px;
+    overflow: hidden;
+    box-sizing: border-box;
   }
 
-  .agent-card {
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  .read-more-link {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+  }
+
+  .agent-bio {
+    max-height: 0;
     overflow: hidden;
-    transition: transform 0.3s ease;
+    transition: max-height 0.3s ease-out;
+  }
+
+  .agent-info-container:focus-within .read-more-link {
+    display: none;
+  }
+
+  .agent-info-container:focus-within .agent-bio {
+    max-height: 100%;
+  }
+
+  .agent-info-container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: row;
+  }
+
+  .agent-info {
+    flex-grow: 1;
+    padding: 0 10px;
   }
 
   .agent-image {
     width: 100%;
+    max-width: 250px;
     height: auto;
+    order: -1; /* Move the image to the left */
   }
 
-  .agent-info {
-    padding: 20px;
-  }
+  @media only screen and (max-width: 600px) {
+    .agent-info-container {
+      align-items: center;
+      flex-direction: column;
+    }
 
-  .agent-name {
-    font-size: 1.2rem;
-    font-weight: bold;
-    margin-bottom: 10px;
-  }
+    .agent-info {
+      padding: 10px;
+    }
 
-  .agent-contact {
-    margin-bottom: 10px;
-  }
-
-  .agent-bio {
-    line-height: 1.6;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.3s ease;
-  }
-
-  .agent-card:focus-within .agent-bio {
-    max-height: 1000px;
-  }
-
-  .return-home {
-    text-align: center;
-    margin-top: 40px;
-  }
-
-  .return-home a {
-    text-decoration: none;
-    display: inline-block;
-    padding: 10px 20px;
-    background-color: #007BFF;
-    color: #fff;
-    border-radius: 5px;
-    font-weight: bold;
+    .agent-image {
+      max-width: 100%;
+    }
   }
 </style>
 
