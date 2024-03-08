@@ -26,8 +26,8 @@ socialImage: "./elite-gold-black.jpg"
   }
 
   .agent-image-wrapper {
-    width: 150px;
-    height: 150px;
+    width: 250px;
+    height: 250px;
     overflow: hidden;
   }
 
