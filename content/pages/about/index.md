@@ -24,10 +24,21 @@ socialImage: "./elite-gold-black.jpg"
     transform: translateY(-5px);
   }
 
-  .agent-image {
+  .agent-image-wrapper {
     width: 100%;
-    height: 200px;
+    padding-top: 75%; /* 4:3 aspect ratio */
+    position: relative;
+    overflow: hidden;
+  }
+
+  .agent-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
+    object-position: center;
   }
 
   .agent-info {
@@ -67,7 +78,9 @@ socialImage: "./elite-gold-black.jpg"
 <div class="agent-grid">
   <!-- Agent 1 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tracylee.jpg" alt="Tracy Lee" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tracylee.jpg" alt="Tracy Lee" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Tracy Lee</div>
       <div class="agent-contact">
@@ -84,7 +97,9 @@ socialImage: "./elite-gold-black.jpg"
 
   <!-- Agent 2 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/bonniehood.jpg" alt="Bonnie Hood" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/bonniehood.jpg" alt="Bonnie Hood" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Bonnie Hood</div>
       <div class="agent-contact">
@@ -101,7 +116,9 @@ socialImage: "./elite-gold-black.jpg"
 
   <!-- Agent 3 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/stanhood.jpg" alt="Stan Hood" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/stanhood.jpg" alt="Stan Hood" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Stan Hood</div>
       <div class="agent-contact">
@@ -118,7 +135,9 @@ socialImage: "./elite-gold-black.jpg"
 
   <!-- Agent 4 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/lisaheadrick.jpg" alt="Lisa Headrick" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/lisaheadrick.jpg" alt="Lisa Headrick" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Lisa Headrick</div>
       <div class="agent-contact">
@@ -135,7 +154,9 @@ socialImage: "./elite-gold-black.jpg"
 
   <!-- Agent 5 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/deeannsturdivant.jpg" alt="DeeAnn Sturdivant" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/deeannsturdivant.jpg" alt="DeeAnn Sturdivant" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">DeeAnn Sturdivant</div>
       <div class="agent-contact">
@@ -151,7 +172,9 @@ socialImage: "./elite-gold-black.jpg"
 
   <!-- Agent 6 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/havencox.jpg" alt="Haven Cox" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/havencox.jpg" alt="Haven Cox" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Haven Cox</div>
       <div class="agent-contact">
@@ -165,9 +188,11 @@ socialImage: "./elite-gold-black.jpg"
     </div>
   </div>
 
-  <!-- Agent 7 -->
+<!-- Agent 7 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tylerpayne.jpg" alt="Tyler Payne" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tylerpayne.jpg" alt="Tyler Payne" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Tyler Payne</div>
       <div class="agent-contact">
@@ -183,7 +208,9 @@ socialImage: "./elite-gold-black.jpg"
 
   <!-- Agent 8 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/aricapatterson.jpg" alt="Arica Patterson" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/aricapatterson.jpg" alt="Arica Patterson" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Arica Patterson</div>
       <div class="agent-contact">
@@ -199,7 +226,9 @@ socialImage: "./elite-gold-black.jpg"
 
   <!-- Agent 9 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tonyablevins.jpg" alt="Tonya Blevins" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/tonyablevins.jpg" alt="Tonya Blevins" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Tonya Blevins</div>
       <div class="agent-contact">
@@ -215,7 +244,9 @@ socialImage: "./elite-gold-black.jpg"
 
   <!-- Agent 10 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/katelynkiser.jpg" alt="Katelyn Kiser" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/katelynkiser.jpg" alt="Katelyn Kiser" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Katelyn Kiser</div>
       <div class="agent-contact">
@@ -233,7 +264,9 @@ socialImage: "./elite-gold-black.jpg"
 
   <!-- Agent 11 -->
   <div class="agent-card">
-    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/ashleybell.jpg" alt="Ashley Bell" class="agent-image" />
+    <div class="agent-image-wrapper">
+      <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/ashleybell.jpg" alt="Ashley Bell" class="agent-image" />
+    </div>
     <div class="agent-info">
       <div class="agent-name">Ashley Bell</div>
       <div class="agent-contact">
