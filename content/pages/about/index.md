@@ -14,7 +14,6 @@ socialImage: "./elite-gold-black.jpg"
 
   .agent-card {
     display: flex;
-    flex-direction: column;
     background-color: #fff;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -27,8 +26,8 @@ socialImage: "./elite-gold-black.jpg"
   }
 
   .agent-image-wrapper {
-    width: 100%;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     overflow: hidden;
   }
 
@@ -40,6 +39,7 @@ socialImage: "./elite-gold-black.jpg"
   }
 
   .agent-info {
+    flex-grow: 1;
     padding: 20px;
   }
 
