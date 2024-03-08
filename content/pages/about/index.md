@@ -14,33 +14,21 @@ socialImage: "./elite-gold-black.jpg"
 
   .agent-card {
     display: flex;
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    overflow: hidden;
-    transition: transform 0.3s ease;
-  }
-
-  .agent-card:active {
-    transform: translateY(-5px);
-  }
-
-  .agent-image-wrapper {
-    width: 250px;
-    height: 250px;
-    overflow: hidden;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: row;
   }
 
   .agent-image {
     width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: center;
+    max-width: 250px;
+    height: auto;
+    order: -1; /* Move the image to the left */
   }
 
   .agent-info {
     flex-grow: 1;
-    padding: 20px;
+    padding: 0 20px;
   }
 
   .agent-name {
@@ -77,6 +65,16 @@ socialImage: "./elite-gold-black.jpg"
     color: #fff;
     border-radius: 5px;
     font-weight: bold;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .agent-card {
+      flex-direction: column;
+    }
+
+    .agent-image {
+      max-width: 100%;
+    }
   }
 </style>
 
