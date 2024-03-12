@@ -50,10 +50,10 @@ socialImage: "./elite-gold-black.jpg"
     width: 100%;
     max-width: 250px;
     height: auto;
-    order: -1; /* Move the image to the left */
+    order: -1;
   }
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 1000px) {
     .agent-info-container {
       align-items: center;
       flex-direction: column;
@@ -100,7 +100,7 @@ socialImage: "./elite-gold-black.jpg"
       <label class="read-more-link">Read Agent Bio</label>
       <div class="agent-bio">
         <p>
-          Bonnie is a native of North Georgia. She received her REALTOR license in 1997. After gaining valuable experience in real estate, she acquired her Broker’s license. She specializes in residential real estate in the Chattanooga, Tennessee and North Georgia Areas. Whether you are buying or selling your home, it can be a stressful task. So, as your REALTOR, her job is to take the stress out of your hand. Communication is a vital factor to success in Real Estate. That’s why she communicates every step of the way. That gives you assurance knowing that she’s there to guide you. Her goal is to satisfy your needs, whether it is your first home or your last home. She will always put herself in your shoes.
+          Bonnie is a native of North Georgia. She received her REALTOR license in 1997. After gaining valuable experience in real estate, she acquired her Broker's license. She specializes in residential real estate in the Chattanooga, Tennessee and North Georgia Areas. Whether you are buying or selling your home, it can be a stressful task. So, as your REALTOR, her job is to take the stress out of your hand. Communication is a vital factor to success in Real Estate. That's why she communicates every step of the way. That gives you assurance knowing that she's there to guide you. Her goal is to satisfy your needs, whether it is your first home or your last home. She will always put herself in your shoes.
           Bonnie currently resides with husband Stan in Ringgold, Georgia. In her spare time, she enjoys spending time with family and friends, reading, and antique shopping.
         </p>
       </div>
@@ -249,7 +249,7 @@ socialImage: "./elite-gold-black.jpg"
         <p>
           I am a small-town Realtor with a forever-growing passion to learn. As a Northwest Georgia native, I have intimate knowledge of the area and surrounding areas with a strong desire to help you find your home. Raven is my beautiful daughter that makes me have a very strong will to succeed and make things happen. I treat all clients as if they are family while having a friendly demeanor and a humorous relationship with each of them.
           Establishing a positive communication flow with agents, clients, lenders, and all other parties involved in the closing process is important and I have done just that. All the while assisting first-time home buyers and investors in finding ideal homes by assessing needs, requirements, and budgets. I am a strong negotiator and advocate for my clients… assertive and efficient.
-          Is it time for something new? Let’s talk!
+          Is it time for something new? Let's talk!
         </p>
       </div>
     </div>
