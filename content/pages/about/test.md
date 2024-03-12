@@ -53,7 +53,7 @@ socialImage: "./elite-gold-black.jpg"
     order: -1;
   }
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 700px) {
     .agent-info-container {
       align-items: center;
       flex-direction: column;
@@ -89,7 +89,43 @@ socialImage: "./elite-gold-black.jpg"
   </div>
 </div>
 
-<!-- Remaining agents... -->
+<!-- Agent 2 -->
+<div class="agent-container">
+  <div class="agent-info-container" tabindex="0">
+    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/bonniehood.jpg" class="agent-info agent-image" />
+    <div class="agent-info">
+      <span style="display: block;"><strong>Bonnie Hood</strong></span>
+      <span style="display: block;"><a href="mailto:bonniehood.elite@gmail.com">bonniehood.elite@gmail.com</a></span>
+      <span style="display: block;"><a href="tel:4234213946">(423) 421-3946</a></span>
+      <label class="read-more-link">Read Agent Bio</label>
+      <div class="agent-bio">
+        <p>
+          Bonnie is a native of North Georgia. She received her REALTOR license in 1997. After gaining valuable experience in real estate, she acquired her Broker's license. She specializes in residential real estate in the Chattanooga, Tennessee and North Georgia Areas. Whether you are buying or selling your home, it can be a stressful task. So, as your REALTOR, her job is to take the stress out of your hand. Communication is a vital factor to success in Real Estate. That's why she communicates every step of the way. That gives you assurance knowing that she's there to guide you. Her goal is to satisfy your needs, whether it is your first home or your last home. She will always put herself in your shoes.
+          Bonnie currently resides with husband Stan in Ringgold, Georgia. In her spare time, she enjoys spending time with family and friends, reading, and antique shopping.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Agent 3 -->
+<div class="agent-container">
+  <div class="agent-info-container" tabindex="0">
+    <img src="https://raw.githubusercontent.com/charles-hood/redesign-elite-1/master/content/pages/about/stanhood.jpg" class="agent-info agent-image" />
+    <div class="agent-info">
+      <span style="display: block;"><strong>Stan Hood</strong></span>
+      <span style="display: block;"><a href="mailto:stanhood.elite@gmail.com">stanhood.elite@gmail.com</a></span>
+      <span style="display: block;"><a href="tel:4234439278">(423) 443-9278</a></span>
+      <label class="read-more-link">Read Agent Bio</label>
+      <div class="agent-bio">
+        <p>
+          Stan received his license in 2006 but took a break from real estate in 2010. He returned to real estate in 2019 to work with his wife as a team.
+          He specializes in residential properties for buyers and sellers. He will work hard for you from finding your property to the close. Call him today!
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 
 <!-- Return to Home Button -->
 <div style="text-align: center; margin-top: 20px;">
