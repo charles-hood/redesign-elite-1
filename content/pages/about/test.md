@@ -53,7 +53,7 @@ socialImage: "./elite-gold-black.jpg"
     order: -1;
   }
 
-  @media only screen and (max-width: 700px) {
+  @media only screen and (max-width: 800px) {
     .agent-info-container {
       align-items: center;
       flex-direction: column;
