@@ -554,11 +554,7 @@
         </div>
         <script>
         function sharePropertyWebshare(address, url) {
-          const isMacOSDesktopSafari = /^((?!chrome|android|crios).)*safari/i.test(navigator.userAgent) && navigator.userAgent.includes('Macintosh');
-        
-          if (isMacOSDesktopSafari) {
-            fallbackToEmailShare(address, url);
-          } else if (navigator.share) {
+          if (navigator.share) {
             navigator.share({
               title: 'Check out this listing at ' + address,
               text: 'I found this listing on Elite Realtors LLC:',
@@ -566,18 +562,17 @@
             })
             .then(() => console.log('Successful share'))
             .catch((error) => {
-              console.log('Error sharing:', error);
-              fallbackToEmailShare(address, url);
+              console.log('Error sharing or user cancelled:', error);
             });
           } else {
             fallbackToEmailShare(address, url);
           }
         }
-
-          function fallbackToEmailShare(address, url) {
-            const emailShareUrl = 'mailto:?subject=' + encodeURIComponent('Check out this listing at ' + address) + '&body=' + encodeURIComponent('I found this listing on Elite Realtors LLC:\n\n' + url);
-            window.location.href = emailShareUrl;
-          }
+        
+        function fallbackToEmailShare(address, url) {
+          const emailShareUrl = 'mailto:?subject=' + encodeURIComponent('Check out this listing at ' + address) + '&body=' + encodeURIComponent('I found this listing on Elite Realtors LLC:\n\n' + url);
+          window.location.href = emailShareUrl;
+        }
         </script>
       </body>
     </html>
